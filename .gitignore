@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+#secrets
+src/secrets/
+public/images/
+public/main.js
